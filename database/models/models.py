@@ -34,11 +34,6 @@ class AiJobData(Base):
                 f"reference_url_id={self.reference_url_id})")
 
 # Thông tin kết nối
-#user = 'headha_admin_prod'
-#password = 'DAod+N<uj4Ry+rQtzrvLeT2&*2PnQ'
-#host = 'snafty-headswap-prod.cn5cjf5ay4r8.us-east-1.rds.amazonaws.com'
-#port = 3306
-#database = 'snafty_headswap_prod'
 user = 'root'
 password = ''
 host = '127.0.0.1'
